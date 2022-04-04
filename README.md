@@ -1,7 +1,7 @@
 # Kodluyoruz ilk repo
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-[Repository image]("C:\Users\Пользователь\Downloads\markdown.png")
+[Repository image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 ## Installation
 
