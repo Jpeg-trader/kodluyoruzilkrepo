@@ -1,7 +1,7 @@
 # Kodluyoruz ilk repo
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![IMAGE]("C:\Users\Пользователь\Downloads\markdown.png")
+![IMAGE]("C:\Users\Пользователь\Desktop\github_odev\markdown.png")
 
 ## Installation
 
